@@ -8,4 +8,9 @@ namespace :greeting do
   # task :hola do
   #   puts "hola de Rake!"
   # end
+  
+  rake greeting:hello
+  hello from Rake!
+  rake greeting:hola
+  hola de Rake!
 end
