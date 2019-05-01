@@ -14,3 +14,4 @@ namespace :greeting do
   rake greeting:hola
   hola de Rake!
 end
+end
